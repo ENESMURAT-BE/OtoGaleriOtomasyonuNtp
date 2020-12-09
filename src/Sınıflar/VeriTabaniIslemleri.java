@@ -3,7 +3,7 @@ import com.company.Main;
 
 import java.sql.*;
 
-public class VeriTabaniIslemleri extends Main {
+public class VeriTabaniIslemleri {
 
     public Connection Baglan(){
         Connection baglantı=null;
