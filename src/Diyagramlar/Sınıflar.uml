@@ -22,12 +22,6 @@
     </note>
   </notes>
   <edges>
-    <edge source="Sınıflar.Musteriler" target="Sınıflar.VeriTabaniIslemleri">
-      <point x="0.0" y="-148.5" />
-      <point x="350.875" y="405.0" />
-      <point x="352.0" y="405.0" />
-      <point x="0.0" y="126.0" />
-    </edge>
     <edge source="Sınıflar.Arabalar" target="Sınıflar.VeriTabaniIslemleri">
       <point x="0.0" y="-511.5" />
       <point x="574.375" y="405.0" />
@@ -40,6 +34,12 @@
       <point x="214.875" y="103.0" />
       <point x="0.0" y="27.0" />
     </edge>
+    <edge source="Sınıflar.Musteriler" target="Sınıflar.VeriTabaniIslemleri">
+      <point x="0.0" y="-148.5" />
+      <point x="350.875" y="405.0" />
+      <point x="352.0" y="405.0" />
+      <point x="0.0" y="126.0" />
+    </edge>
     <edge source="Sınıflar.HesapTipi" target="Sınıflar.VeriTabaniIslemleri">
       <point x="0.0" y="-148.5" />
       <point x="131.875" y="405.0" />
@@ -47,8 +47,10 @@
       <point x="-234.66666666666666" y="126.0" />
     </edge>
   </edges>
-  <settings layout="Hierarchic Group" zoom="0.5000000000000001" x="1166.2380397380398" y="517.6428571428572" />
-  <SelectedNodes />
+  <settings layout="Hierarchic Group" zoom="0.6014935505770537" x="352.0" y="726.5" />
+  <SelectedNodes>
+    <node>Sınıflar.HesapTipi</node>
+  </SelectedNodes>
   <Categories>
     <Category>Fields</Category>
     <Category>Methods</Category>
